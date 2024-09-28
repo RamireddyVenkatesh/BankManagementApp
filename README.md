@@ -20,15 +20,8 @@
 ## Setup Instructions
 
 ### Prerequisites
-Make sure you have the following installed:
+I have used the following installed:
 - Java 17
 - Maven
-- MySQL
-- IDE of your choice (e.g., IntelliJ IDEA, Eclipse)
-
-### Steps to Run the Application
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/BankManagementApp.git
-   cd BankManagementApp
+- Postgresql
+- Eclipse
